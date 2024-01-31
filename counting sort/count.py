@@ -27,3 +27,9 @@ arr = [4, 2, 2, 8, 3, 3, 1]
 sorted_arr, start_array = countingArray(arr)
 print("Unsorted Array:", arr)
 print("Sorted Array:", sorted_arr)
+
+
+
+
+
+
