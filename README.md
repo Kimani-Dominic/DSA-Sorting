@@ -1,1 +1,1 @@
-Playground for Data structures and Algorithmns using python
+Playground for Data Structures and Algorithmns using python
