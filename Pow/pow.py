@@ -14,5 +14,4 @@ def pow(x, n):
 
 x = 2
 n = 4
-pow = 
 print(pow(2, 4))
