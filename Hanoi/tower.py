@@ -1,7 +1,7 @@
 #tower of Hanoi
 
 def towerofHanoi(num, source, destination, helper):
-    if num == 0:
+    if num <= 0:
         print(f"Move disk 1 from {source} to {destination}")
         return
     towerofHanoi(num-1, source, helper, destination)
