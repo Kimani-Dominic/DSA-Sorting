@@ -16,7 +16,6 @@ def max_of_subarrays(arr, k):
 
     return result
 
-# Example usage
 arr = [1, 2, 6, 1, 4, 5, 2, 3, 6]
 K = 3
 output = max_of_subarrays(arr, K)
